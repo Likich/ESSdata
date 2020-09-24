@@ -1,5 +1,5 @@
 ---
-title: "Домашняя работа №3"
+title: "ESS Russia"
 output: html_document
 ---
 
@@ -7,7 +7,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-*Парфенова Ангелина, 162*
+*Парфенова Ангелина*
 
 *16 Октября 2019*
 
